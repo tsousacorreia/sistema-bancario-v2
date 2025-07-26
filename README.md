@@ -23,5 +23,7 @@ O sistema simula operações bancárias básicas (depósito, saque e extrato) de
 
 ## Estrutura do Projeto:
 sistema-bancario-v1/
+
 ├── sistema_bancario.py # Código principal
+
 └── README.md # Documentação do projeto
