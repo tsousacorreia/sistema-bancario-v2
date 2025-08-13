@@ -1,4 +1,4 @@
-# Sistema Bancário - Versão 2 (Lab Project)
+# Sistema Bancário - Versão 3 (Lab Project)
 
 ## Descrição:
 Lab Project "Criando um sistema bancário com Python" do **Bootcamp Santander 2025 - Back-End com Python**.
